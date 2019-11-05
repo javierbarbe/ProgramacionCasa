@@ -16,6 +16,6 @@ public class Ejercicio16 {
 		break;
 		}
 System.out.println(x);
-	}
+	}n
 
 }
